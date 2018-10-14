@@ -1,0 +1,12 @@
+# Modul6
+![alt text](https://github.com/alfina08/Modul6/blob/master/Kuis1%20a.PNG)
+![alt text](https://github.com/alfina08/Modul6/blob/master/Kuis1%20a.PNG)
+![alt text](https://github.com/alfina08/Modul6/blob/master/Kuis1%20c.PNG)
+![alt text](https://github.com/alfina08/Modul6/blob/master/Kuis1%20d.PNG)
+![alt text](https://github.com/alfina08/Modul6/blob/master/Lat1.PNG)
+![alt text](https://github.com/alfina08/Modul6/blob/master/Lat2.PNG)
+![alt text](https://github.com/alfina08/Modul6/blob/master/Lat3%20a.PNG)
+![alt text](https://github.com/alfina08/Modul6/blob/master/Lat3%20b.PNG)
+![alt text](https://github.com/alfina08/Modul6/blob/master/Lat3%20c.PNG)
+![alt text](https://github.com/alfina08/Modul6/blob/master/Lat3%20d.PNG)
+![alt text](https://github.com/alfina08/Modul6/blob/master/kuis2.PNG)
